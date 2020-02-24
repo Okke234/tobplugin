@@ -1,225 +1,33 @@
 [
   {
-    "name": "Agility",
-    "id": "agility-plugin",
-    "description": "Show helpful information about agility courses and obstacles",
+    "name": "Alchemical Hydra",
+    "id": "alchemicalhydra-plugin",
+    "description": "Show what to pray against hydra",
     "provider": "OpenOSRS",
     "projectUrl": "https://discord.gg/OpenOSRS",
     "releases": [
       {
         "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-29",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/agility-0.0.1.jar?raw=true",
-        "sha512sum": "E20A239BF7AC7C70181079AEDE8B3B81267977B8075AB560973AE8D75D7B9AA632592CA4562A76EA43C4107F97BC7C4343E477D8792F9E2C70209BBEC7C2F91A"
+        "requires": "0.0.1",
+        "date": "2019-12-11",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.1.jar?raw=true",
+        "sha512sum": "59C35186DB23B2F337353E794DB364C56D49DE73B484F770EBB1E4C2D1D870F35F34A1785C2702B990234F5DCD565186E09C1494AF522B1D1691388A939DA93E"
       }
     ]
   },
   {
-    "name": "Ammo",
-    "id": "ammo-plugin",
-    "description": "Shows the current ammo the player has equipped",
+    "name": "AoE Warnings",
+    "id": "aoewarnings-plugin",
+    "description": "Shows the final destination for AoE Attack projectiles",
     "provider": "OpenOSRS",
     "projectUrl": "https://discord.gg/OpenOSRS",
     "releases": [
       {
         "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-30",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/ammo-0.0.1.jar?raw=true",
-        "sha512sum": "5EBE244718E1CDE98EB09A702676B422B57143E1331154EEE9531670FFF9D692243E5D2EF703B6CA4A59BF32B570F9D944752E557B22A99549D4638B04DD3499"
-      }
-    ]
-  },
-  {
-    "name": "Anim Smoothing",
-    "id": "animsmoothing-plugin",
-    "description": "Makes animations appear smoother",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-30",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/animsmoothing-0.0.1.jar?raw=true",
-        "sha512sum": "966FD3AEC9E45EDA9A3EA7E4DA5CE0B5B70D94F453999D056D462298DC55C6B34D748304D66E6370458AC786992BFFCDA82EF70E506EFFD0B82A859CCA317BD7"
-      }
-    ]
-  },
-  {
-    "name": "Anti Drag",
-    "id": "antidrag-plugin",
-    "description": "Prevent dragging an item for a specified delay",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-30",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/antidrag-0.0.1.jar?raw=true",
-        "sha512sum": "03059C248D4E8ED74866ED7A62324E30428D0EDAF274D72847B0F086E4D94F68F0016572A53B9D88A99F5663194FB9831A7CE9D93C42A2EA083B6F3BD070C764"
-      }
-    ]
-  },
-  {
-    "name": "Attack Styles",
-    "id": "attackstyles-plugin",
-    "description": "Show your current attack style as an overlay",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-30",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/attackstyles-0.0.1.jar?raw=true",
-        "sha512sum": "F1B71E328BD300C957E6E4271162DC0ACED0807F2F41DE5BF66867BD63E3EF1D8E3A2CB6DE500C563D3844C5703ADE3FFC59A7E2F8964FFC4734ADA7E2F45DF5"
-      }
-    ]
-  },
-  {
-    "name": "Custom Cursor",
-    "id": "customcursor-plugin",
-    "description": "Replaces your mouse cursor image",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-30",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/customcursor-0.0.1.jar?raw=true",
-        "sha512sum": "F887E51A9E11AE397CB77F8E034187A9B4A447B7A40D199241C8C8EE538116487C87643332B52CF30D6090787F729ADF7B72A3C2488054A07A856AD376896202"
-      }
-    ]
-  },
-  {
-    "name": "Diary Requirements",
-    "id": "diaryrequirements-plugin",
-    "description": "Display level requirements in Achievement Diary interface",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-29",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/diaryrequirements-0.0.1.jar?raw=true",
-        "sha512sum": "D231959A395509D50900C65F7CAD8CAA301987D270FE47B27D8E34CC6563761F76523A2DA5D8FD02D2E61C1C19919C64FA1DF3DA77B29ADE8E29001CD72FB051"
-      }
-    ]
-  },
-  {
-    "name": "GPU",
-    "id": "gpu-plugin",
-    "description": "Enables GPU support",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-29",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/gpu-0.0.1.jar?raw=true",
-        "sha512sum": "8F8E447123B132B43745C9C03C7B5875911CFC316CD4FDAF4CE4C95424EBC99789AA123F2DD1CAA0E2F410310D17DB5C77CC21E2648307B160F2837CF2B8AEA0"
-      }
-    ]
-  },
-  {
-    "name": "Item Stats",
-    "id": "itemstats-plugin",
-    "description": "Show information about food and potion effects",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-29",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/itemstats-0.0.1.jar?raw=true",
-        "sha512sum": "D32C5B506908604A99FA0EB36A29EBDECD4E8788EA5C58E55536C5FF77E8F25C5DB5D9DB0B6C2C074DD103F1C9F2F1E94EC9F27A719CCECE0F9DC75AFFE0A51B"
-      }
-    ]
-  },
-  {
-    "name": "Slayer",
-    "id": "slayer-plugin",
-    "description": "Enhance the slayer skill",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-30",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/slayer-0.0.1.jar?raw=true",
-        "sha512sum": "8E41911B2C6A2346112DA39CBD34987E2921A459BCFB6C62CF7E598A73F84F0EAF0B42DB725B64A951EE8AB6F520EA8F57FBF5E4BFB56E66B330E07801D86111"
-      }
-    ]
-  },
-  {
-    "name": "Status Bars",
-    "id": "statusbars-plugin",
-    "description": "Draws HP/Pray/Stamina/Spec status bars next to inventory",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-30",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/statusbars-0.0.1.jar?raw=true",
-        "sha512sum": "7D875A06943BFFDEB35B4A7080AA00FE8129AA30D87640FAE68F8A31AA9D53B78CAFCDE07C2D8E4D06E4E2912AB07AFA312F560BD6F3B054CF15A820DDD6A556"
-      }
-    ]
-  },
-  {
-    "name": "Stretched Mode",
-    "id": "stretchedmode-plugin",
-    "description": "Stretches the game in fixed and resizable modes",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-30",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/stretchedmode-0.0.1.jar?raw=true",
-        "sha512sum": "2B99DBDDD9EF76E2B7CBC27FD48A998C4A61D4DF50F4BE4A5D46BB1EEBDB2C5D0B5172A09F7301F15409E78088227C6C2ED791BF5034DD4D78D1157BABE900D3"
-      }
-    ]
-  },
-  {
-    "name": "XP Globes",
-    "id": "xpglobes-plugin",
-    "description": "Show XP globes for the respective skill when gaining XP",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-30",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/xpglobes-0.0.1.jar?raw=true",
-        "sha512sum": "A71757EBE23430EAB993723E1EAE8D1E854D812D5D5E3217AB82FD7680EAD16FB0798213C82D16C929063FE172639B93AF509FCD6442F78E1CADC0C0113700F1"
-      }
-    ]
-  },
-  {
-    "name": "XP Tracker",
-    "id": "xptracker-plugin",
-    "description": "Enable the XP Tracker panel",
-    "provider": "OpenOSRS",
-    "projectUrl": "https://discord.gg/OpenOSRS",
-    "releases": [
-      {
-        "version": "0.0.1",
-        "requires": "0.0.2",
-        "date": "2019-11-29",
-        "url": "https://github.com/open-osrs/plugins/blob/master/release/xptracker-0.0.1.jar?raw=true",
-        "sha512sum": "F979797F007E7E47DB66F98855A72ABC959E93B9972A1E6A63BAC566B3F16416EB123668E9D3B10F472409EDFF22E9947726057276D093B01759E373250FBF36"
+        "requires": "0.0.1",
+        "date": "2019-12-11",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/aoewarnings-0.0.1.jar?raw=true",
+        "sha512sum": "1A57547CC50468A811FBF9DC86CAADA12B63738F4161DFA6F5187E11BF51F97613219A40B5D67417A5C2108E9E443667D516849A664004F162E32FC4DA6B74AD"
       }
     ]
   }
